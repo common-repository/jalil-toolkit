@@ -1,0 +1,885 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jalil Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-08 17:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: kc-addons/kc-blocks.php:39
+msgid ""
+"/wp-admin/themes.php?page=jalil-install-plugins\" target=\"_blank\"> King "
+"Composer </a></strong> plugin to be installed and activated on your site."
+msgstr ""
+
+#: kc-addons/kc-post.php:58 kc-addons/kc-slide.php:80 kc-addons/kc-team.php:58
+#: kc-addons/kc-testimonial.php:58
+msgid "1 Second"
+msgstr ""
+
+#: kc-addons/kc-post.php:67 kc-addons/kc-slide.php:89 kc-addons/kc-team.php:67
+#: kc-addons/kc-testimonial.php:67
+msgid "10 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:68 kc-addons/kc-slide.php:90 kc-addons/kc-team.php:68
+#: kc-addons/kc-testimonial.php:68
+msgid "11 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:69 kc-addons/kc-slide.php:91 kc-addons/kc-team.php:69
+#: kc-addons/kc-testimonial.php:69
+msgid "12 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:70 kc-addons/kc-slide.php:92 kc-addons/kc-team.php:70
+#: kc-addons/kc-testimonial.php:70
+msgid "13 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:71 kc-addons/kc-slide.php:93 kc-addons/kc-team.php:71
+#: kc-addons/kc-testimonial.php:71
+msgid "14 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:72 kc-addons/kc-slide.php:94 kc-addons/kc-team.php:72
+#: kc-addons/kc-testimonial.php:72
+msgid "15 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:59 kc-addons/kc-slide.php:81 kc-addons/kc-team.php:59
+#: kc-addons/kc-testimonial.php:59
+msgid "2 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:60 kc-addons/kc-slide.php:82 kc-addons/kc-team.php:60
+#: kc-addons/kc-testimonial.php:60
+msgid "3 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:61 kc-addons/kc-slide.php:83 kc-addons/kc-team.php:61
+#: kc-addons/kc-testimonial.php:61
+msgid "4 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:62 kc-addons/kc-slide.php:84 kc-addons/kc-team.php:62
+#: kc-addons/kc-testimonial.php:62
+msgid "5 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:63 kc-addons/kc-slide.php:85 kc-addons/kc-team.php:63
+#: kc-addons/kc-testimonial.php:63
+msgid "6 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:64 kc-addons/kc-slide.php:86 kc-addons/kc-team.php:64
+#: kc-addons/kc-testimonial.php:64
+msgid "7 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:65 kc-addons/kc-slide.php:87 kc-addons/kc-team.php:65
+#: kc-addons/kc-testimonial.php:65
+msgid "8 Seconds"
+msgstr ""
+
+#: kc-addons/kc-post.php:66 kc-addons/kc-slide.php:88 kc-addons/kc-team.php:66
+#: kc-addons/kc-testimonial.php:66
+msgid "9 Seconds"
+msgstr ""
+
+#: kc-addons/kc-count.php:19 kc-addons/kc-pricing-table.php:19
+msgid "Active"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:10 inc/jalil-toolkit-post-type.php:35
+#: inc/jalil-toolkit-post-type.php:60 inc/jalil-toolkit-post-type.php:85
+msgid "Add New"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:46
+msgid "Add new feature"
+msgstr ""
+
+#: kc-addons/kc-progress-bar.php:17
+msgid "Add new progress bar"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:61
+msgid "Add New Project"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:11
+msgid "Add New Slide"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:36
+msgid "Add New Team"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:86
+msgid "Add New Testimonial"
+msgstr ""
+
+#: kc-addons/kc-project.php:18
+msgid "Ascending Post"
+msgstr ""
+
+#: kc-addons/kc-slide.php:25
+msgid "Ascending Slide"
+msgstr ""
+
+#: kc-addons/kc-btn.php:6
+msgid "Button"
+msgstr ""
+
+#: kc-addons/kc-btn.php:14
+msgid "Button Style"
+msgstr ""
+
+#: kc-addons/kc-btn.php:18
+msgid "Button Style 1"
+msgstr ""
+
+#: kc-addons/kc-btn.php:19
+msgid "Button Style 2"
+msgstr ""
+
+#: kc-addons/kc-title.php:19
+msgid "Center"
+msgstr ""
+
+#: theme-shortcodes/testimonial-shortcode.php:76
+msgid "CEO CODEGLIM"
+msgstr ""
+
+#: theme-shortcodes/team-shortcode.php:77
+msgid "CEO/FOUNDER"
+msgstr ""
+
+#: theme-shortcodes/post-shortcode.php:67
+msgid "comments"
+msgstr ""
+
+#: kc-addons/kc-count.php:6 kc-addons/kc-post.php:14 kc-addons/kc-slide.php:14
+#: kc-addons/kc-team.php:14 kc-addons/kc-testimonial.php:14
+msgid "Count"
+msgstr ""
+
+#: kc-addons/kc-count.php:37
+msgid "Count description"
+msgstr ""
+
+#: kc-addons/kc-count.php:25
+msgid "Count Icon"
+msgstr ""
+
+#: kc-addons/kc-count.php:31
+msgid "Count Number"
+msgstr ""
+
+#: kc-addons/kc-count.php:14
+msgid "Count Style"
+msgstr ""
+
+#: kc-addons/kc-count.php:18 kc-addons/kc-pricing-table.php:18
+msgid "Default"
+msgstr ""
+
+#: kc-addons/kc-project.php:19
+msgid "Descending Post"
+msgstr ""
+
+#: kc-addons/kc-slide.php:26
+msgid "Descending Slide"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:62
+msgid "Edit Project"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:12
+msgid "Edit Slide"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:37
+msgid "Edit Team"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:87
+msgid "Edit Testimonial"
+msgstr ""
+
+#: kc-addons/kc-post.php:43 kc-addons/kc-slide.php:65 kc-addons/kc-team.php:43
+#: kc-addons/kc-testimonial.php:43
+msgid "Enable Autoplay?"
+msgstr ""
+
+#: kc-addons/kc-post.php:32 kc-addons/kc-slide.php:43
+#: kc-addons/kc-testimonial.php:32
+msgid "Enable Dots?"
+msgstr ""
+
+#: kc-addons/kc-post.php:21 kc-addons/kc-slide.php:32 kc-addons/kc-team.php:21
+#: kc-addons/kc-testimonial.php:21
+msgid "Enable Loop?"
+msgstr ""
+
+#: kc-addons/kc-slide.php:54 kc-addons/kc-team.php:32
+msgid "Enable Nav?"
+msgstr ""
+
+#: kc-addons/kc-post.php:26 kc-addons/kc-post.php:37 kc-addons/kc-post.php:48
+#: kc-addons/kc-slide.php:37 kc-addons/kc-slide.php:48
+#: kc-addons/kc-slide.php:59 kc-addons/kc-slide.php:70 kc-addons/kc-team.php:26
+#: kc-addons/kc-team.php:37 kc-addons/kc-team.php:48
+#: kc-addons/kc-testimonial.php:26 kc-addons/kc-testimonial.php:37
+#: kc-addons/kc-testimonial.php:48
+msgid "False"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:50
+msgid "Feature Title"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:43
+msgid "Features"
+msgstr ""
+
+#: kc-addons/kc-title.php:32
+msgid "Highlighted Text"
+msgstr ""
+
+#: kc-addons/kc-post.php:84
+msgid "How many words are you want to show."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://jalil.thenextlevel.com.au/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thenextlevel.com.au/"
+msgstr ""
+
+#: kc-addons/kc-post.php:45 kc-addons/kc-slide.php:67 kc-addons/kc-team.php:45
+#: kc-addons/kc-testimonial.php:45
+msgid "If you want to show autoplay, Please select yes."
+msgstr ""
+
+#: kc-addons/kc-post.php:34 kc-addons/kc-slide.php:45
+#: kc-addons/kc-testimonial.php:34
+msgid "If you want to show dots, Please select yes."
+msgstr ""
+
+#: kc-addons/kc-post.php:23 kc-addons/kc-slide.php:34 kc-addons/kc-team.php:23
+#: kc-addons/kc-testimonial.php:23
+msgid "If you want to show loop, Please select yes."
+msgstr ""
+
+#: kc-addons/kc-slide.php:56 kc-addons/kc-team.php:34
+msgid "If you want to show nav, Please select yes."
+msgstr ""
+
+#: kc-addons/kc-post.php:16 kc-addons/kc-slide.php:16 kc-addons/kc-team.php:16
+msgid "If you want to show unlimited project post, Please type -1 from here."
+msgstr ""
+
+#: kc-addons/kc-testimonial.php:16
+msgid ""
+"If you want to show unlimited testimonail post, Please type -1 from here."
+msgstr ""
+
+#: kc-addons/kc-post.php:9 kc-addons/kc-slide.php:9 kc-addons/kc-team.php:9
+#: kc-addons/kc-testimonial.php:9
+msgid "Jalil"
+msgstr ""
+
+#: kc-addons/kc-btn.php:9 kc-addons/kc-count.php:9
+#: kc-addons/kc-pricing-table.php:9 kc-addons/kc-progress-bar.php:9
+#: kc-addons/kc-project.php:9 kc-addons/kc-service.php:9
+#: kc-addons/kc-title.php:9 kc-addons/kc-video.php:9
+msgid "jalil"
+msgstr ""
+
+#. Name of the plugin
+msgid "Jalil Toolkit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"jalil Toolkit is a helper plugin for jalil theme.This plugin only used for "
+"the jalil theme.It is a required plugin for jalil theme."
+msgstr ""
+
+#. Author of the plugin
+msgid "jewel1994"
+msgstr ""
+
+#: kc-addons/kc-title.php:18
+msgid "Left"
+msgstr ""
+
+#: kc-addons/kc-btn.php:38
+msgid "Link Icon"
+msgstr ""
+
+#: kc-addons/kc-btn.php:32
+msgid "Link Text"
+msgstr ""
+
+#: kc-addons/kc-btn.php:25
+msgid "Link Url"
+msgstr ""
+
+#. Publish box date format, see http://php.net/date
+#: inc/jalil-toolkit-post-type.php:127 inc/jalil-toolkit-post-type.php:146
+#: inc/jalil-toolkit-post-type.php:165 inc/jalil-toolkit-post-type.php:184
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:63
+msgid "New Project"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:13
+msgid "New Slide"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:38
+msgid "New Team"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:88
+msgid "New Testimonial"
+msgstr ""
+
+#: kc-addons/kc-service.php:14
+msgid "Number"
+msgstr ""
+
+#: kc-addons/kc-post.php:6
+msgid "Post"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:37
+msgid "Pricing Amount"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:59
+msgid "Pricing Button Link"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:65
+msgid "Pricing Button Text"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:31
+msgid "Pricing Description"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:14
+msgid "Pricing Style"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:6
+msgid "Pricing Table"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:25
+msgid "Pricing Title"
+msgstr ""
+
+#: kc-addons/kc-progress-bar.php:6 kc-addons/kc-progress-bar.php:14
+msgid "Progress Bar"
+msgstr ""
+
+#: kc-addons/kc-progress-bar.php:21
+msgid "Progress Bar Title"
+msgstr ""
+
+#: kc-addons/kc-progress-bar.php:28
+msgid "Progress Bar Value"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:59
+msgid "Project"
+msgstr ""
+
+#: kc-addons/kc-project.php:25
+msgid "Project Count"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:155
+msgid "Project deleted."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:167
+msgid "Project draft updated."
+msgstr ""
+
+#: kc-addons/kc-project.php:14
+msgid "Project order"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:159
+msgid "Project published."
+msgstr ""
+
+#. %s: date and time of the revision
+#: inc/jalil-toolkit-post-type.php:158
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:160
+msgid "Project saved."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:163
+#, php-format
+msgid "Project scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:161
+msgid "Project submitted."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:153 inc/jalil-toolkit-post-type.php:154
+#: inc/jalil-toolkit-post-type.php:156
+msgid "Project updated."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:58 kc-addons/kc-project.php:6
+msgid "Projects"
+msgstr ""
+
+#: theme-shortcodes/post-shortcode.php:70
+msgid "Read More"
+msgstr ""
+
+#: kc-addons/kc-title.php:20
+msgid "Right"
+msgstr ""
+
+#: kc-addons/kc-title.php:6 kc-addons/kc-title.php:26
+msgid "Section Titlte"
+msgstr ""
+
+#: kc-addons/kc-btn.php:16
+msgid "Select button style from here."
+msgstr ""
+
+#: kc-addons/kc-count.php:27
+msgid "Select count icon from here."
+msgstr ""
+
+#: kc-addons/kc-count.php:16
+msgid "Select count style from here."
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:16
+msgid "Select pricing style from here."
+msgstr ""
+
+#: kc-addons/kc-project.php:16
+msgid "Select project order from here."
+msgstr ""
+
+#: kc-addons/kc-slide.php:23
+msgid "Select slide order from here."
+msgstr ""
+
+#: kc-addons/kc-post.php:56 kc-addons/kc-slide.php:78 kc-addons/kc-team.php:56
+#: kc-addons/kc-testimonial.php:56
+msgid "Select slide time from here."
+msgstr ""
+
+#: kc-addons/kc-title.php:16
+msgid "Select text align from here."
+msgstr ""
+
+#: kc-addons/kc-btn.php:40
+msgid "Select your link icon from here."
+msgstr ""
+
+#: kc-addons/kc-service.php:6
+msgid "Service"
+msgstr ""
+
+#: kc-addons/kc-service.php:26
+msgid "Service Description"
+msgstr ""
+
+#: kc-addons/kc-service.php:32
+msgid "Service Icon"
+msgstr ""
+
+#: kc-addons/kc-service.php:20
+msgid "Service Title"
+msgstr ""
+
+#: kc-addons/kc-post.php:82
+msgid "Show Words"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:9
+msgid "Slide"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:117
+msgid "Slide deleted."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:129
+msgid "Slide draft updated."
+msgstr ""
+
+#: kc-addons/kc-slide.php:21
+msgid "Slide Order"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:121
+msgid "Slide published."
+msgstr ""
+
+#. %s: date and time of the revision
+#: inc/jalil-toolkit-post-type.php:120
+#, php-format
+msgid "Slide restored to revision from %s"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:122
+msgid "Slide saved."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:125
+#, php-format
+msgid "Slide scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:123
+msgid "Slide submitted."
+msgstr ""
+
+#: kc-addons/kc-post.php:54 kc-addons/kc-slide.php:76 kc-addons/kc-team.php:54
+#: kc-addons/kc-testimonial.php:54
+msgid "Slide Time"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:115 inc/jalil-toolkit-post-type.php:116
+#: inc/jalil-toolkit-post-type.php:118
+msgid "Slide updated."
+msgstr ""
+
+#: kc-addons/kc-slide.php:6
+msgid "Slider"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:8
+msgid "Slides"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:65
+msgid "Sorry, we couldn't find the Project you are looking for."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:15
+msgid "Sorry, we couldn't find the Slide you are looking for."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:40
+msgid "Sorry, we couldn't find the Team you are looking for."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:90
+msgid "Sorry, we couldn't find the Testimonial you are looking for."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:34 kc-addons/kc-team.php:6
+msgid "Team"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:136
+msgid "Team deleted."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:148
+msgid "Team draft updated."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:140
+msgid "Team published."
+msgstr ""
+
+#. %s: date and time of the revision
+#: inc/jalil-toolkit-post-type.php:139
+#, php-format
+msgid "Team restored to revision from %s"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:141
+msgid "Team saved."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:144
+#, php-format
+msgid "Team scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:142
+msgid "Team submitted."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:134 inc/jalil-toolkit-post-type.php:135
+#: inc/jalil-toolkit-post-type.php:137
+msgid "Team updated."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:33
+msgid "Teams"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:84 kc-addons/kc-testimonial.php:6
+msgid "Testimonial"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:174
+msgid "Testimonial deleted."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:186
+msgid "Testimonial draft updated."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:178
+msgid "Testimonial published."
+msgstr ""
+
+#. %s: date and time of the revision
+#: inc/jalil-toolkit-post-type.php:177
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:179
+msgid "Testimonial saved."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:182
+#, php-format
+msgid "Testimonial scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:180
+msgid "Testimonial submitted."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:172 inc/jalil-toolkit-post-type.php:173
+#: inc/jalil-toolkit-post-type.php:175
+msgid "Testimonial updated."
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:83
+msgid "Testimonials"
+msgstr ""
+
+#: kc-addons/kc-title.php:14
+msgid "Text Align"
+msgstr ""
+
+#: kc-addons/kc-title.php:38
+msgid "Title description"
+msgstr ""
+
+#: kc-addons/kc-count.php:39
+msgid "Type Count description from here."
+msgstr ""
+
+#: kc-addons/kc-count.php:33
+msgid "Type count number from here."
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:52
+msgid "Type feature title from here."
+msgstr ""
+
+#: kc-addons/kc-title.php:34
+msgid "Type highlighted text from here."
+msgstr ""
+
+#: kc-addons/kc-btn.php:34
+msgid "Type link text from here."
+msgstr ""
+
+#: kc-addons/kc-btn.php:27
+msgid "Type link url from here."
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:39
+msgid "Type pricing amount from here."
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:61
+msgid "Type pricing button link from here."
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:67
+msgid "Type pricing button text from here."
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:33
+msgid "Type pricing description from here."
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:45
+msgid "Type pricing table features from here."
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:27
+msgid "Type pricing title from here."
+msgstr ""
+
+#: kc-addons/kc-progress-bar.php:16
+msgid "Type progress bar from here."
+msgstr ""
+
+#: kc-addons/kc-progress-bar.php:23
+msgid "Type progress bar title from here."
+msgstr ""
+
+#: kc-addons/kc-progress-bar.php:30
+msgid "Type progress bar value from here."
+msgstr ""
+
+#: kc-addons/kc-project.php:27
+msgid "Type section project count from here."
+msgstr ""
+
+#: kc-addons/kc-title.php:28
+msgid "Type section title from here."
+msgstr ""
+
+#: kc-addons/kc-service.php:28
+msgid "Type service description from here."
+msgstr ""
+
+#: kc-addons/kc-service.php:34
+msgid "Type service icon from here."
+msgstr ""
+
+#: kc-addons/kc-service.php:16
+msgid "Type service number from here."
+msgstr ""
+
+#: kc-addons/kc-service.php:22
+msgid "Type service title from here."
+msgstr ""
+
+#: kc-addons/kc-title.php:40
+msgid "Type title description from here."
+msgstr ""
+
+#: kc-addons/kc-video.php:16
+msgid "Type video link from here."
+msgstr ""
+
+#: kc-addons/kc-video.php:22
+msgid "Upload a preview image from here."
+msgstr ""
+
+#: kc-addons/kc-video.php:20
+msgid "Upload Preview Image"
+msgstr ""
+
+#: kc-addons/kc-btn.php:7
+msgid "Use this addon for button."
+msgstr ""
+
+#: kc-addons/kc-post.php:7
+msgid "Use this addon for displaing post"
+msgstr ""
+
+#: kc-addons/kc-slide.php:7
+msgid "Use this addon for displaing slider"
+msgstr ""
+
+#: kc-addons/kc-team.php:7
+msgid "Use this addon for displaing team"
+msgstr ""
+
+#: kc-addons/kc-testimonial.php:7
+msgid "Use this addon for displaing testimonail"
+msgstr ""
+
+#: kc-addons/kc-pricing-table.php:7
+msgid "Use this addon for pricing table."
+msgstr ""
+
+#: kc-addons/kc-progress-bar.php:7
+msgid "Use this addon for progress bar."
+msgstr ""
+
+#: kc-addons/kc-project.php:7
+msgid "Use this addon for projecta."
+msgstr ""
+
+#: kc-addons/kc-title.php:7
+msgid "Use this addon for section title."
+msgstr ""
+
+#: kc-addons/kc-service.php:7
+msgid "Use this addon for showing service."
+msgstr ""
+
+#: kc-addons/kc-video.php:7
+msgid "Use this addon for showing video."
+msgstr ""
+
+#: kc-addons/kc-count.php:7
+msgid "Use this addon for single count"
+msgstr ""
+
+#: kc-addons/kc-video.php:6
+msgid "Video"
+msgstr ""
+
+#: kc-addons/kc-video.php:14
+msgid "Video Link"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:64
+msgid "View Project"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:14
+msgid "View Slide"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:39
+msgid "View Team"
+msgstr ""
+
+#: inc/jalil-toolkit-post-type.php:89
+msgid "View Testimonial"
+msgstr ""
+
+#: theme-shortcodes/theme-slide.php:72
+msgid "with creative comes"
+msgstr ""
+
+#: kc-addons/kc-post.php:25 kc-addons/kc-post.php:36 kc-addons/kc-post.php:47
+#: kc-addons/kc-slide.php:36 kc-addons/kc-slide.php:47
+#: kc-addons/kc-slide.php:58 kc-addons/kc-slide.php:69 kc-addons/kc-team.php:25
+#: kc-addons/kc-team.php:36 kc-addons/kc-team.php:47
+#: kc-addons/kc-testimonial.php:25 kc-addons/kc-testimonial.php:36
+#: kc-addons/kc-testimonial.php:47
+msgid "Yes"
+msgstr ""

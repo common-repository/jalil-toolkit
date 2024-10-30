@@ -1,0 +1,1166 @@
+/*========================================================== 
+CSS Indexing
+=> Default CSS
+=> Section Title CSS
+=> Contact Form CSS
+=> Static CSS
+=> About CSS
+=> Service CSS
+=> Team CSS
+=> Project CSS
+=> Testimonial CSS
+=> Pricing CSS
+=> Skill CSS
+=> Blog CSS
+=> Contact CSS
+=> Slider CSS
+============================================================*/
+/*========================================================== 
+    Default CSS 
+============================================================*/
+.single-service,
+.single-service .number p,
+.button,
+#j-slider .owl-dots .owl-dot span,
+.single-video::before, 
+.single-video::after,
+.single-video i{
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+.call-to-action h2 {
+	color: #fff;
+	display: inline-block;
+	margin-top: 24px;
+	margin-bottom: 0px;
+}
+/*========================================================== 
+    Section Title CSS 
+============================================================*/
+.section-title {
+    margin-bottom: 20px;
+}
+.section-title span{
+    font-weight:700;
+    color:#F2784B;	
+
+}
+.section-title h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 0 0 15px;
+    position:relative;
+    color:#252525;
+    font-weight:500;
+}
+.section-title p {
+    font-weight: 400;
+}
+/*========================================================== 
+    Contact Form CSS
+============================================================*/
+span.wpcf7-not-valid-tip {
+    margin-bottom: 30px;
+}
+div.wpcf7-validation-errors {
+    border: 2px solid #f00;
+    clear: both;
+}
+div.wpcf7-mail-sent-ok {
+    border: 2px solid #398f14;
+    clear: both;
+}
+/*========================================================== 
+    Static CSS 
+============================================================*/
+.static-single {
+	text-align: center;
+	padding: 15px;
+	position: relative;
+	background: #252525;
+	overflow: hidden;
+	z-index: 999;
+}
+.static-single .icon{
+	display:block;
+	border-radius:100%;
+}
+.static-single.active{
+	background:#F2784B;
+}
+.static-single i{
+	color: #F2784B;
+}
+.static-single i {
+	font-size: 30px;
+	background: #f5f5f5;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+	border-radius: 100%;
+}
+.s-info {
+	display: block;
+}
+.number {
+	margin: 8px 0;
+}
+.static-single span {
+	display: block;
+	font-size: 28px;
+	color: #fff;
+	font-weight: 500;
+}
+.static-single p {
+	color: #fff;
+	font-size: 15px;
+}
+/*========================================================== 
+    About CSS 
+============================================================*/
+.single-about {
+	margin-top: 30px;
+}
+.single-about h3{
+	margin-bottom:15px;
+}
+.single-about p {
+	margin-bottom: 15px;
+}
+.button{
+	margin-top: 15px;
+}
+.button.primary i {
+	margin-left: 10px;
+	font-size: 15px;
+}
+.button.call-to-action {
+	border: 1px solid #e2e2e2;
+	display: inline-block;
+	background: transparent;
+	margin-top: 5px;
+}
+.button.call-to-action i {
+	margin-right: 10px;
+}
+.button.call-to-action:hover {
+	border-color: transparent;
+}
+.about-video{
+	margin-top: 30px;
+}
+.single-video{
+	position:relative;
+}
+.single-video img{
+	width:100%;
+}
+.single-video::before {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(255, 255, 255, 0.72);
+	opacity: 0.3;
+	visibility: visible;
+	content: "";
+}
+.single-video:hover:before{
+	opacity:0;
+	visibility:hidden;
+}
+.single-video::after {
+	position: absolute;
+	left: 0;
+	top: 0;
+	content: "";
+	width: 100%;
+	height: 100%;
+	z-index: -2;
+	margin-left: 7px;
+	margin-top: 7px;
+	background: #F2784B;
+}
+.single-video:hover:after {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.single-video i {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+	border-radius: 100%;
+	margin-left: -25px;
+	margin-top: -25px;
+	color: #fff;
+	cursor:pointer;
+	background: #F2784B;
+}
+.single-video:hover i{
+	-webkit-transform:scale(1.2);	
+	-moz-transform:scale(1.2);	
+	transform:scale(1.2);	
+}
+/*========================================================== 
+    Service CSS 
+============================================================*/
+.single-service {
+	text-align: center;
+	background: #fff;
+	padding: 30px;
+	position: relative;
+	-webkit-box-shadow: 1px 1px 6px rgba(20, 20, 20, 0.4);
+	-moz-box-shadow: 1px 1px 6px rgba(20, 20, 20, 0.4);
+	box-shadow: 1px 1px 6px rgba(20, 20, 20, 0.4);
+}
+.single-service .number{
+	font-size: 28px;
+	line-height: 65px;
+	height: 65px;
+	width: 65px;
+	background: #252525;
+	border-radius: 50%;
+	text-align: center;
+	display:inline-block;
+	border:1px solid transparent;
+}
+.single-service .number p {
+	color: #fff;
+	margin:0;
+}
+.single-service:hover .number p{
+	-webkit-transform:scale(1.4);
+	-moz-transform:scale(1.4);
+	transform:scale(1.4);
+} 
+.single-service h4 {
+	font-size: 18px;
+	font-weight: 700;
+	margin: 14px 0;
+}
+.single-service.active h4,
+.single-service:hover h4{
+	color:#fff;
+}
+.single-service.active p,
+.single-service:hover p{
+	color:#fff;
+}
+.single-service:hover i,
+.single-service.active i{
+	color: #fff;
+	background:transparent;
+	border-color:#fff;
+}
+.single-service .ico-bg {
+	position: absolute;
+	content: "";
+	color: #988D8D;
+	font-size: 50px;
+	background: transparent;
+	left: 0;
+	top: 50%;
+	bottom: 33px;
+	z-index: 3;
+	border: none;
+	transition: all 1s ease;
+	opacity: 0;
+	visibility: hidden;
+}
+.single-service:hover .ico-bg,
+.single-service.active .ico-bg{
+	color: #fff;
+	left:20%;
+	opacity: 0.3;
+	visibility:visible;
+}
+.single-service.active,
+.single-service:hover{
+	background:#F2784B;
+}
+/*========================================================== 
+    Team CSS 
+============================================================*/ 
+#team .single-team {
+	text-align: center;
+	overflow: hidden;
+	border-top:4px solid;
+	border-top-color:#F2784B;
+}
+#team .team-head{
+	position:relative;
+}
+#team .team-head::before {
+	position: absolute;
+	top: 0px;
+	right: 0;
+	width: 100%;
+	background: rgba(255, 255, 255, 0.72);
+	opacity: 0.3;
+	content: "";
+	height: 100%;
+	visibility: hidden;
+	-webkit-transform: translateY(-100%);
+	-moz-transform: translateY(-100%);
+	transform: translateY(-100%);
+	transition: 0.5s;
+}
+#team .single-team:hover .team-head::before {
+	top: 0;
+	opacity:1;
+	visibility:visible;
+	-webkit-transform:translateY(0%);
+	-moz-transform:translateY(0%);
+	transform:translateY(0%);
+	z-index: 99;
+	transition: 0.5s;
+}
+#team .single-team img {
+    width: 100%;
+}
+#team .team-social {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	position: absolute;
+	top: 50%;
+	left:50%;
+	margin-left:-90px;
+	margin-top:-15px;	
+	opacity: 0;
+	visibility:0;
+	-webkit-transform:translateX(100%);
+	-moz-transform:translateX(100%);
+	transform:translateX(100%);
+	z-index: 9999;
+	transition: 0.5s;
+}
+#team .single-team:hover .team-social {
+	visibility:visible;
+	opacity:1;
+	-webkit-transform:translateY(0%);
+	-moz-transform:translateY(0%);
+	transform:translateY(0%);
+	transition: 0.5s;
+}
+#team .team-social li {
+    display: inline-block;
+    margin: 0px 5px;
+}
+#team .team-social li a {
+    display: block;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    color: #fff;
+    border-radius: 50%;
+    line-height: 30px;
+    font-size: 16px;
+    transition: 0.5s;
+    background: #F2784B;
+}
+#team .team-social li a:hover {
+   background:#252525;
+   transition: 0.5s;
+}
+#team .team-info {
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	padding: 20px 0 5px 0;
+	z-index: 999;
+	background: #F2784B;
+}
+#team .team-info .name {
+	position: absolute;
+	width: 100%;
+	top: -16px;
+}
+#team .team-info .name h4 {
+	color: #fff;
+	background: RGBA(32, 27, 26, 0.8);
+	position: relative;
+	display: inline-block;
+	padding: 5px;
+	font-size: 18px;
+	text-transform: uppercase;
+	margin: 0;
+}
+#team .team-info p {
+	color: #fff;
+	margin: 0;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 500;
+}
+/*========================================================== 
+    Project CSS 
+============================================================*/
+#project .no-margin{
+	margin:0;
+}
+#project .no-margin:hover .project-single{
+	opacity:0.3;
+	transition: 0.5s;
+}
+#project .no-margin .project-single:hover{
+	opacity:1;
+	transition: 0.5s;
+}
+#project .col-md-4{
+	padding:0;
+}
+#project .project-single{
+	position:relative;
+	overflow:hidden;
+	transition:all 0.3s ease;
+}
+#project .project-head{
+	position:relative;
+} 
+#project .project-head::before {
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+	background: rgba(37, 37, 37, 0.8);
+	opacity: 0;
+	visibility: hidden;
+	-webkit-transform: translateX(-100%);
+	-moz-transform: translateX(-100%);
+	transform: translateX(-100%);
+	z-index:3;
+	transition: 0.5s;
+}
+#project .project-single:hover .project-head::before{
+	opacity:1;
+	visibility:visible;
+	-webkit-transform: translateX(0%);
+	-moz-transform: translateX(0%);
+	transform: translateX(0%);
+	transition: 0.5s;
+}
+#project .project-head img{
+	width:100%;
+	z-index:2;
+	transition: 0.5s;
+}
+#project .project-single:hover img{
+	transform:scale(1.8);
+	transition: 0.5s;
+}
+#project .project-hover {
+	position: absolute;
+	top: 35px;
+	bottom: 35px;
+	left: 35px;
+	padding: 20px;
+	visibility: hidden;
+	opacity: 0;
+	transition: all 0.30s ease;
+	border: 3px solid #eee;
+	right: 35px;
+	z-index: 4;
+	transition: 0.5s;
+	border-bottom-color: #F2784B;
+}
+#project .project-single:hover .project-hover {
+	opacity:1;
+	visibility:visible;
+	transition: 0.5s;
+}
+#project .project-hover h4 {
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 700;
+}
+#project .project-hover a {
+	color: #fff;
+	padding-top: 10px;
+}
+#project .project-hover p {
+	color: #fff;
+	font-size: 13px;
+	margin: 0;
+}
+#project .project-hover h4:hover a,
+#project .project-hover .button:hover i{
+	color:#F2784B;
+}
+/*========================================================== 
+    Testimonial CSS 
+============================================================*/
+#testimonial .section-title h2 {
+	color: #fff;
+}
+#testimonial .testimonial-carousel{
+	position:relative;
+}
+#testimonial .single-testimonial {
+	opacity: 0.9;
+	transition: all 0.3s ease;
+	-webkit-transform: translateY(10px);
+	-moz-transform: translateY(10px);
+	transform: translateY(10px);
+}
+#testimonial .owl-item.active.center .single-testimonial{
+	opacity: 1;
+	-webkit-transform:translateY(0px);
+	-moz-transform:translateY(0px);
+	transform:translateY(0px);
+}
+#testimonial .testimonial-content {
+	background: #fff;
+	padding: 25px;
+	margin-bottom: 10px;
+	position: relative;
+	border-bottom: 2px solid;
+	border-bottom-color:#F2784B;
+}
+#testimonial .owl-item.active.center .testimonial-content{
+	border-top: 4px solid;
+	border-bottom: 0px solid;
+}
+#testimonial .testimonial-content::before {
+	position: absolute;
+	font-family: FontAwesome;
+	font-size: 19px;
+	top: 11px;
+	left: 6px;
+	content: "\f10d";
+	opacity: 0.8;
+	color: #F2784B;
+}
+#testimonial .testimonial-info {
+	overflow: hidden;
+}
+#testimonial .testimonial-info .arrow{
+	position:relative;
+}
+#testimonial .testimonial-info .arrow::before {
+	position: absolute;
+	bottom: -6px;
+	left: 25px;
+	content: "";
+	border-top: 16px solid transparent;
+	border-left: 23px solid;
+	border-left-color:#F2784B;
+}
+#testimonial .testimonial-info img {
+	width: 80px;
+	height: 80px;
+	border: 3px solid;
+	margin-bottom: 10px;
+	float: left;
+	vertical-align: middle;
+	position:relative;
+	margin-right: 10px;
+	border-color:#F2784B;
+}
+#testimonial .testimonial-info h6 {
+	font-size: 16px;
+	text-transform: uppercase;
+	padding-top: 15px;
+	font-weight: 500;
+	color: #fff;
+	float: left;
+}
+#testimonial .testimonial-info span {
+	display: block;
+	font-size: 12px;
+	margin-top: 10px;
+	color: #fff;
+}
+#testimonial .owl-dots {
+	position: absolute;
+	top: 23%;
+	left: -28px;
+}
+#testimonial .owl-dots .owl-dot {
+	display:block;
+}
+#testimonial .owl-dots .owl-dot span {
+	width: 5px;
+	height: 15px;
+	border-radius: 3px;
+	transition: 0.5s;
+}
+#testimonial .owl-dots .owl-dot.active span{
+	height:25px;
+	transition: 0.5s;
+	background:#F2784B;
+}
+#testimonial .owl-item.active.center .testimonial-content{
+	border-top-color:#F2784B;
+	border-bottom-color:#F2784B;
+}
+/*========================================================== 
+    Pricing CSS 
+============================================================*/
+#pricing .single-table {
+	overflow: hidden;
+	background: #fff;
+	border-top:3px solid;
+	-moz-box-shadow: 1px 1px 6px rgba(110, 100, 100, 0.4);
+	-webkit-box-shadow: 1px 1px 6px rgba(110, 100, 100, 0.4);
+	box-shadow: 1px 1px 6px rgba(110, 100, 100, 0.4);
+}
+#pricing .table-head {
+	text-align: center;
+	padding: 10px 0 10px;
+}
+#pricing .table-title {
+	color: #555;
+	font-size: 25px;
+	margin-bottom: 8px;
+	text-transform: uppercase;
+	font-weight:700;
+}
+
+#pricing .single-table .text {
+	padding-bottom: 10px;
+	color:#555;
+	font-size:14px;
+}
+#pricing .single-table .price {
+	text-align: center;
+	margin: 0;
+	background: #2C3E50;
+	padding: 20px;
+}
+#pricing .single-table.active .price {
+	background: #F2784B;
+}
+#pricing .single-table .ammount {
+	color: #fff;
+	font-size: 32px;
+}
+#pricing .single-table .ammount span {
+	font-weight: 700;
+	font-size: 60px;
+}
+#pricing  .table-list {
+	padding: 0 15px 10px;
+	text-align: center;
+}
+#pricing .table-list li {
+	color: #555;
+	position: relative;
+	padding: 12px 0;
+	transition: 0.5s;
+}
+#pricing .table-list li:hover{
+	cursor:pointer;
+	transition: 0.5s;
+}
+#pricing .table-list i {
+	margin-right: 5px;	
+	font-size: 16px;
+}
+#pricing .table-bottom {
+	text-align: center;
+	padding: 10px;
+	border-top: 2px solid #bdc3c7;
+}
+#pricing .single-table .button {
+	background:#2C3E50;
+	color:#fff;
+}
+#pricing .single-table.active .button {
+	z-index: 1;
+	color:#fff;
+	background: #F2784B;
+}
+#pricing .single-table .button i {
+	font-size: 16px;
+	margin-right: 10px;	
+}
+#pricing .single-table:hover .button {
+	background: #F2784B;
+}
+/*========================================================== 
+    Skill CSS 
+============================================================*/
+#skills-experience {
+	position: relative;
+}
+#skills-experience::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: RGBA(0, 0, 0, 0.68);
+}
+#skills-experience .skill-text{
+	margin-top:30px;
+}
+#skills-experience .skill-text h3 {
+	color: #fff;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+#skills-experience .skill-text p {
+	color: #eee;
+	margin-bottom: 20px;
+	font-size: 15px;
+}
+#skills-experience .skill-text ul{
+	margin-bottom:20px;
+}
+#skills-experience .skill-text li {
+	color: #eee;
+	margin-bottom: 10px;
+	font-weight: 400;
+	text-transform: uppercase;
+	font-size: 14px;
+	position: relative;
+	padding-left: 40px;
+}
+#skills-experience .skill-text ul li::before {
+	font-family: fontAwesome;
+	content: "\f00c";
+	position: absolute;
+	left: 0;
+	top: 2px;
+	display: inline-block;
+	text-align: center;
+	margin-right: 10px;
+	width: 22px;
+	height: 22px;
+	line-height: 22px;
+	text-align: center;
+	border-radius: 100%;
+	color: #ffffff;
+	font-size: 12px;
+	background: #F2784B;
+}
+#skills-experience .skill-main{
+	background: rgba(255, 255, 255, 0.22);
+	padding: 20px;
+	border-radius: 15px;
+	margin-top: 30px;
+}
+#skills-experience .single-skill {
+	margin-bottom: 35px;
+}
+#skills-experience .single-skill:last-child{
+	margin-bottom:0px;
+}
+#skills-experience .skill-info {
+	overflow: hidden;
+	margin-bottom:5px;
+}
+#skills-experience .skill-info h4 {
+	color: #fff;
+	float: left;
+	font-size:16px;
+}
+#skills-experience .skill-info span {
+	float: right;
+	color: #fff;
+	font-size:16px;
+}
+#skills-experience .single-skill .progress {
+	height: 10px;
+	margin: 0;
+}
+#skills-experience .single-skill .progress-bar {
+	background: #F2784B;
+}
+/*========================================================== 
+    Blog CSS 
+============================================================*/
+#blog .single-blog {
+	background: #fff;
+	padding: 10px;
+	-webkit-box-shadow: 0px 0px 4px rgba(21, 20, 20, 0.4);
+	-moz-box-shadow: 0px 0px 4px rgba(21, 20, 20, 0.4);
+	box-shadow: 0px 0px 4px rgba(21, 20, 20, 0.4);
+	margin:5px;
+}
+#blog .blog-head{
+	position:relative;
+	overflow:hidden;
+	z-index:5;
+}
+#blog .blog-head:before{
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+	background: rgba(255, 255, 255, 0.72);
+	opacity: 0;
+	visibility: hidden;
+	-webkit-transform: translateX(-100%);
+	-moz-transform: translateX(-100%);
+	transform: translateX(-100%);
+	z-index:6;
+	transition: 0.5s;
+}
+#blog .single-blog:hover .blog-head:before{
+	opacity: 0.6;
+	visibility: visible;
+	-webkit-transform: translateX(0%);
+	-moz-transform: translateX(0%);
+	transform: translateX(0%);
+	transition: 0.5s;
+}
+#blog .blog-head img{
+	width:100%;
+	transition: 0.5s;
+}
+#blog .single-blog:hover .blog-head img{
+	transform:scale(1.3) rotate(5deg)
+	transition: 0.5s;
+}
+#blog .blog-head .icon{
+	position: absolute;
+	border-radius:100%;
+	opacity: 0;
+	visibility: hidden;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	top:100%;
+	left:50%;
+	color:#fff;
+	margin-left:-25px;
+	margin-top:-25px;
+	text-align: center;
+	font-size: 20px;
+	transition:all 0.40s ease;
+	z-index:7;
+	transition: 0.5s;
+	background: #F2784B;
+}
+#blog .single-blog:hover .blog-head .icon{
+	opacity: 1;
+	visibility: visible;
+	top:50%;
+	transition: 0.5s;
+}
+#blog .blog-head:hover .icon:hover{
+	background:#252525;
+	transition: 0.5s;
+}
+#blog .blog-head:hover .icon i
+#blog .blog-head img{
+	width:100%;
+	transition: 0.5s;
+}
+#blog .blog-head span {
+	position: absolute;
+	padding: 8px 10px;
+	text-transform: uppercase;
+	color: #fff;
+	top: 0;
+	border-radius: 0px 50px 50px 0px;
+	z-index:7;
+	background: #F2784B;
+}
+#blog .blog-head:hover span{
+	opacity:0;
+	transition: 0.5s;
+} 
+#blog .blog-head span i{
+	margin-right:5px;
+}
+#blog .owl-dot span {
+	width: 15px;
+	height: 5px;
+	background: #252525;
+}
+#blog .owl-dot.active span {
+	width: 25px;
+	background: #F2784B;
+}
+#blog .entry-blog .blog-info {
+	margin: 25px 0px;
+}
+#blog .single-blog .blog-info h4 {
+	margin: 10px 0;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: 500;
+	line-height: 26px;
+}
+#blog .single-blog .blog-info h4 a {
+	color: #424242;
+	text-transform: uppercase;
+}
+#blog .single-blog .meta {
+	margin-bottom: 10px;
+}
+#blog .single-blog .meta span {
+	margin-right: 10px;
+}
+#blog .single-blog .meta span i {
+	margin-right: 5px;
+	color: #F2784B;
+}
+#blog .single-blog .button {
+	background: transparent;
+	padding: 0;
+	box-shadow: none;
+	margin-top: 10px;
+	color: #F2784B;
+}
+#blog .single-blog .button i{
+	margin-left:5px;
+}
+#blog .single-blog .button:hover{
+	color:#252525;
+}
+/*========================================================== 
+    Contact CSS 
+============================================================*/
+.form-group input {
+	width: 100%;
+	height: 44px;
+	border: 1px solid #bbb;
+	padding-left: 10px;
+	transition: 0.5s;
+	margin-bottom: 15px;
+}
+.form-group:last-child{
+	margin:0;
+}
+.form-group input:hover,
+.form-group input:focus,
+.form-group textarea:hover{
+	padding-left:20px;
+	transition: 0.5s;
+}
+.form-group textarea{
+	border:1px solid #bbb;
+	padding:10px;
+	width: 100%;
+	padding-left:10px;
+	height: 150px;
+	resize: vertical;
+	margin-bottom: 15px;
+	transition: 0.5s;
+}
+.form-group .button {
+	height: 50px;
+	display:block;
+	border-radius:0px;
+	border:0px solid;
+	padding:0;
+	font-size:14px;
+	text-transform: uppercase;
+	transition: 0.5s;
+}
+.form-group .button:hover{
+	background:#252525;
+	transition: 0.5s;
+	color: #fff;
+}
+/*========================================================== 
+    Slider CSS 
+============================================================*/
+#j-slider{
+    position: relative; 
+}
+#j-slider #particles-js{
+    display:none;
+}
+#j-slider .single-slider {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 580px;
+    position:relative;
+}
+#j-slider .jalil-slide-overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+}
+#j-slider .slide-text {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 100%;
+    height:550px;
+}
+#j-slider .slide-text.left{
+    text-align:left;
+    padding:0 300px 0 0;
+}
+#j-slider .slide-text.center{
+    text-align:center;
+    padding: 0 100px;
+}
+#j-slider .slide-text.right{
+    text-align:right;
+    padding:0 0 0 300px;
+}
+#j-slider .slide-text h1 {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 0 20px;
+}
+#j-slider .slide-text span {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 15px;
+    position: relative;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+#j-slider .slide-text p{
+    font-size:16px;
+    margin-bottom:20px;
+    color: #fff;
+}
+#j-slider .slide-button .button {
+    border-radius: 0px;
+    color: #fff;
+    margin-right: 10px;
+    margin: 0 10px 0 0;
+    border-radius: 20px 0px 20px 0;
+    overflow: hidden;
+    position: relative;
+    vertical-align: top;
+    border:1px solid #e2e2e2;
+    background:transparent;
+}
+#j-slider .slide-button .button:hover,
+#j-slider .slide-button .button.primary{
+    border-color:transparent;
+}
+#j-slider .slide-button .button:last-child{
+    margin-right:0px;
+}
+#j-slider .slide-button .button.primary,
+#j-slider .slide-button .button:before{
+	background:#F2784B;
+}
+#j-slider .owl-nav div:hover,
+#team .owl-nav div:hover{
+	background:#F2784B;
+}
+#j-slider .owl-dots .owl-dot span,
+#team .owl-dots .owl-dot span{
+	background: #F2784B;
+}
+#j-slider .owl-dots .owl-dot:hover span,
+#team .owl-dots .owl-dot:hover span{
+	background:#F2784B;
+}
+#j-slider .owl-dots .owl-dot.active span,
+#team .owl-dots .owl-dot.active span{
+	background:#F2784B;
+}
+#j-slider .owl-dots{
+    position: absolute;
+    margin-top: -10px;
+    left: 50%;
+    margin-left:-15px;
+    bottom: 70px;
+}
+#j-slider .owl-dots .owl-dot{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+#j-slider .owl-dots .owl-dot span{
+    width: 5px;
+    height: 15px;
+    display: block;
+    border-radius: 15px;
+    margin: 0px 7px;
+}
+#j-slider .owl-dots .owl-dot:hover span{
+    border-color:transparent;
+} 
+#j-slider .owl-dots .owl-dot.active span{
+    border-color:transparent;
+    height: 25px;
+}
+#j-slider .owl-nav div,
+#team .owl-nav div{
+    position: absolute;
+    top: 50%;
+    background: transparent;
+    color: #fff;
+    border: 1px solid #ddd;
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    padding: 0;
+    font-size: 18px;
+    border-radius:0px;
+    opacity: 0.5;
+    margin: -18px 0 0;
+    font-size: 30px;
+    background: rgba(255, 255, 255, 0.13);
+    -webkit-transition:all 0.4s ease;
+    -moz-transition:all 0.4s ease;
+    transition:all 0.4s ease;
+}
+#team .owl-nav div{
+	border: 1px solid #F2784B;
+	color: #F2784B;
+	transition: 0.5s;
+	-webkit-transition:all 0.4s ease;
+    -moz-transition:all 0.4s ease;
+    transition:all 0.4s ease;
+}
+#j-slider .owl-nav div:hover,
+#team .owl-nav div:hover{
+    border-color:transparent;
+    opacity:1;
+    -webkit-transition:all 0.4s ease;
+    -moz-transition:all 0.4s ease;
+    transition:all 0.4s ease;
+}
+#j-slider .owl-nav .owl-prev{
+    left: 0px;
+}
+#team .owl-nav .owl-prev{
+    left: -50px;
+}
+#j-slider .owl-nav .owl-next{
+    right:0;
+}
+#team .owl-nav .owl-next{
+	right: -50px;
+}
+#team .owl-nav div.owl-prev:hover i,
+#team .owl-nav div.owl-next:hover i{
+	color: #fff;
+}
+#j-slider.static .slide-text p{
+    padding:0 100px;
+}
+#j-slider .slide-text h1{
+    animation: fadeIn 0.6s both 0.6s;
+}
+#j-slider .slide-text p{
+    animation: fadeIn 0.8s both 0.8s;
+}
+#j-slider .slide-text .button{
+    animation: fadeIn 1s both 1s;
+}
